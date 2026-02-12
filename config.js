@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Jsem ten nejšťastnější kluk na světě! 🎉💝💖💝💓",
-        message: "Tvůj dáreček je veliká pusa a večere v Long Story!",
+        message: "Moc moc se těším!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
