@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Miluješ mě",                                    // First interaction
+            text: "Miluješ mě?",                                    // First interaction
             yesBtn: "Ano",                                             // Text for "Yes" button
             noBtn: "Ne",                                               // Text for "No" button
             secretAnswer: "Moc moc tě miluju! ❤️"           // Secret hover message
